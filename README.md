@@ -1,4 +1,14 @@
-# Somatico
+# 🧬 Pipeline Somático
+
+Este repositório contém o notebook **Pipeline_Somatico.ipynb**, desenvolvido no Google Colab para análise somática.
+
+## 🚀 Como executar o notebook
+
+### Clique no link abaixo para abrir diretamente no Google Colab:
+
+- [Abrir Pipeline_Somatico.ipynb no Colab](https://colab.research.google.com/drive/15Uax-INdQc2A_MaLWOtYsx0zxpxi0YrH?usp=sharing)
+
+
 Escopo: As neoplasias mieloproliferativas (NMPs) negativas para o cromossomo Filadélfia, que incluem policitemia vera (PV), trombocitemia essencial (ET) e mielofibrose primária (PMF), são doenças adquiridas de células-tronco hematopoéticas clonais caracterizadas pela proliferação anormal e acúmulo de células sanguíneas maduras . A mielofibrose é caracterizada pela desregulação do estroma da medula óssea com o desenvolvimento de uma fibrose de reticulina. Entre as NMPs, a mielofibrose está associada ao pior prognóstico, e sua evolução é extremamente variável de acordo com as características prognósticas e tratamento. As terapias adaptadas ao risco variam desde nenhum tratamento até o transplante alogênico de células-tronco hematopoéticas. Mais de 90% dos casos de mielofibrose abrigam mutações somáticas nos genes controladores JAK2 , CALR ou MPL que levam a uma ativação constitutiva da via JAK-STAT5. Outras mutações somáticas não-condutor (as chamadas mutações adicionais) têm sido cada vez mais detectadas no MPN com o uso de sequenciamento de alto rendimento. Essas mutações adicionais envolvem genes com várias funções, como epigenética, splicing, sinalização e fatores de transcrição, e também são mutados em outras neoplasias mieloides, como síndromes mielodisplásicas e LMA.
 
 Objetivo geral: análise de variantes somáticas detectadas em genes de alto risco que são fatores prognósticos adversos na Mielofibrose (MF).
