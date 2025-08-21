@@ -1,1 +1,1 @@
-# Som-tico
+# Somatico
